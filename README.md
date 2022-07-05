@@ -1,8 +1,7 @@
 ### Hi there 👋 Meu nome é Gabriele Santos, mas prefiro que me chame de Gabs. 
 Estou em transição de carreira. 
 Estudo programação de forma independente desde 2021 através de conteúdos gratuitos encontrados na internet (inclusive indico ao meus companheiros que estão iniciando o canal do Gustavo Guanabara. Ele irá enraizar em você a base que todo excelente programador precisar ter. BUSQUEM POR GUSTAVO GUANABARA, É SERIO).
-Em 2022 (colhendo parte dos frutos dos meus estudos): Fui selecionada num processo de incentivo à mulheres na tecnologia (projeto da Cia de Talentos e Descomplica) e ganhei uma bolsa 100% para um curso de nível superior escolhido por mim. E hoje, feliz e realizda, estou cursando ADS.
-Em 2022 (ainda colhendo parte dos frutos dos meus estudos): Fui aprovada pela escola Cubos Academy através do ISA, e já estou em contagem regressiva para iniciar no mercado de trabalho com pé direito. 
+Em Maio/2022 fui selecionada num processo de incentivo à mulheres na tecnologia (projeto da Cia de Talentos e Descomplica) e ganhei uma bolsa 100% para um curso de nível superior escolhido por mim. E hoje, feliz e realizda, estou cursando ADS.
 
 <a href="https://github.com/gabsoliv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabsoliv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
