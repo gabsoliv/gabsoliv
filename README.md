@@ -8,12 +8,15 @@ Olá, me chamo Gabriele Santos, tenho 26 anos e atualmente curso graduação de 
 - 🤔 Estou procurando ajudar com a linguagem Java;
 - ⚡ Curiosidade: Sou uma menina proativa que está sempre procurando uma maneira para facilitar o próximo;
 
+
+
 <div align="left">
-  <a href="https://github.com/gabsoliv%22%3E
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gabsoliv&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsoliv&layout=compact&langs_count=7&theme=dark%22/%3E
+  <a href="https://github.com/gabsoliv">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gabsoliv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsoliv&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
+<br>
 
 - 📫 Como entrar em contato comigo: 
 <div> 
