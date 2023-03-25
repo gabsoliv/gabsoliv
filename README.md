@@ -1,4 +1,4 @@
-Olá, me chamo Gabriele Santos, tenho 26 anos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direciono meus estudos a cursos, bootcamps e projetos por fora, tais como: Udemy, DevSuperior e Dio. 
+Olá, me chamo Gabriele Santos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direciono meus estudos a cursos, bootcamps e projetos por fora. 
  
  ## Bem vindo ao meu perfil GitHub 👋
 
