@@ -1,12 +1,12 @@
-Olá, me chamo Gabriele Santos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direciono meus estudos a cursos, bootcamps e projetos por fora. 
+Olá! Meu nome é Gabriele Santos e sou estudante de graduação em Análise e Desenvolvimento de Sistemas. Além disso, também busco constantemente aprimorar meus conhecimentos por meio de cursos, bootcamps e projetos independentes.
  
  ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente busco uma oportunidade de trabalho na área;
-- 🌱 Estou aprendendo a linguagem Java através de sua documentação e de cursos;
-- ✍️ Estou validando o conhecimento através dos exercícios de fixação.
-- 🤔 Estou procurando ajudar com a linguagem Java;
-- ⚡ Curiosidade: Sou uma menina proativa que está sempre procurando uma maneira para facilitar o próximo;
+- 🔭 Atualmente, estou em busca de oportunidades de trabalho na área de TI.;
+- 🌱 Tenho me dedicado ao aprendizado da linguagem Java, explorando sua documentação e participando de cursos para aprimorar meu conhecimento;
+- ✍️ Tenho validado meus conhecimentos por meio de exercícios de fixação.
+- 🤔 Estou sempre disposta a ajudar com a linguagem Java;
+- ⚡ Curiosidade: Sou conhecida por ser uma pessoa proativa, sempre buscando maneiras de facilitar a vida dos outros;
 
 
 
