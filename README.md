@@ -2,11 +2,11 @@ Olá! Meu nome é Gabriele Santos e sou estudante de graduação em Análise e D
  
  ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente, estou em busca de oportunidades de trabalho na área de TI.;
-- 🌱 Tenho me dedicado ao aprendizado da linguagem Java, explorando sua documentação e participando de cursos para aprimorar meu conhecimento;
+- 🔭 Atualmente, estou em busca de oportunidades de trabalho na área de TI.
+- 🌱 Tenho me dedicado ao aprendizado da linguagem Java, explorando sua documentação e participando de cursos para aprimorar meu conhecimento.
 - ✍️ Tenho validado meus conhecimentos por meio de exercícios de fixação.
-- 🤔 Estou sempre disposta a ajudar com a linguagem Java;
-- ⚡ Curiosidade: Sou conhecida por ser uma pessoa proativa, sempre buscando maneiras de facilitar a vida dos outros;
+- 🤔 Estou sempre disposta a ajudar com a linguagem Java.
+- ⚡ Curiosidade: Sou conhecida por ser uma pessoa proativa, sempre buscando maneiras de facilitar a vida dos outros.
 
 
 
