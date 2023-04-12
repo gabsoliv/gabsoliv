@@ -20,5 +20,5 @@ Olá! Meu nome é Gabriele Santos e sou estudante de graduação em Análise e D
 
 - 📫 Como entrar em contato comigo: 
 <div> 
-  <a href = "mailto:kakiita1910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriele.ss@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabscodes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
