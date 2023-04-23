@@ -8,8 +8,6 @@ Olá! Meu nome é Gabriele Santos e sou estudante de graduação em Análise e D
 - 🤔 Estou sempre disposta a ajudar com a linguagem Java.
 - ⚡ Curiosidade: Sou conhecida por ser uma pessoa proativa, sempre buscando maneiras de facilitar a vida dos outros.
 
-
-
 <div align="left">
   <a href="https://github.com/gabsoliv">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gabsoliv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
